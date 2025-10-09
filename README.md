@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Igor%20Macedo&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Web+Scraping+Specialist+%F0%9F%95%B7%EF%B8%8F;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Web+Scraping+Specialist;Building+the+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +8,7 @@
 
 <div align="center">
 
-## 🎮 Play the Classic!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igormacedo4/igormacedo4/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igormacedo4/igormacedo4/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igormacedo4/igormacedo4/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Contribution Graph" />
 
 </div>
 
