@@ -112,6 +112,10 @@ for (let i = days.length - 1; i >= 0; i--) {
   else if (streak > 0 || i < days.length - 1) break
 }
 
+// Ultimos dias do calendario de contribuicoes. Viram as barrinhas de uptime
+// do status page: uma das linhas mostra dado real, nao piada.
+const recent = days.slice(-46).map((d) => d.contributionCount)
+
 const data = {
   generatedAt: new Date().toISOString(),
   login: user.login,
@@ -123,22 +127,16 @@ const data = {
   issues: c.totalIssueContributions,
   contributionsYear: c.contributionCalendar.totalContributions,
   streak,
+  recent,
   repoCount: repos.length,
   publicRepoCount: repos.filter((r) => !r.isPrivate).length,
   stars: repos.reduce((sum, r) => sum + r.stargazerCount, 0),
   languages,
   activity,
-  repos: repos.map((r) => ({
-    name: r.name,
-    description: r.description,
-    url: r.url,
-    isPrivate: r.isPrivate,
-    stars: r.stargazerCount,
-    forks: r.forkCount,
-    pushedAt: r.pushedAt,
-    language: r.primaryLanguage?.name ?? null,
-    languageColor: r.primaryLanguage?.color ?? null,
-  })),
+  // A lista crua de repositorios NAO entra aqui. Este arquivo e commitado num
+  // repositorio publico, e com um PAT a consulta enxerga repos privados —
+  // gravar nome e descricao deles vazaria trabalho que nao e publico.
+  // Os SVGs so precisam de agregados.
 }
 
 writeFileSync(new URL('./data.json', import.meta.url), JSON.stringify(data, null, 2))
