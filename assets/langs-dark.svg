@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="232" viewBox="0 0 430 232" role="img" aria-label="Linguagens mais usadas">
+<title>Linguagens mais usadas</title>
+<style><![CDATA[
+.h{font:700 12px ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, 'Liberation Mono', monospace;letter-spacing:2.2px}
+.big{font:700 27px ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, 'Liberation Mono', monospace;letter-spacing:-.5px}
+.cap{font:400 10.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;letter-spacing:.4px}
+.lbl{font:500 12px ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+.pct{font:400 11px ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, 'Liberation Mono', monospace;text-anchor:end}
+.yr{font:400 9.5px ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, 'Liberation Mono', monospace;text-anchor:middle}
+.note{font:400 10px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;text-anchor:middle}
+
+/* As barras nascem completas. A animacao so encolhe o inicio e devolve ao
+   tamanho natural, entao sem CSS elas continuam corretas. */
+.bar{transform-box:fill-box;transform-origin:left center;animation:grow .9s cubic-bezier(.2,.8,.2,1) both}
+@keyframes grow{from{transform:scaleX(0)}}
+.col{transform-box:fill-box;transform-origin:bottom;animation:rise .9s cubic-bezier(.2,.8,.2,1) both}
+@keyframes rise{from{transform:scaleY(0)}}
+]]></style>
+
+  
+  <defs>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#161E28"/>
+    </pattern>
+  </defs>
+  <rect width="430" height="232" rx="12" fill="#0D1117"/>
+  <rect width="430" height="232" rx="12" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="429" height="231" rx="12" fill="none" stroke="#21262D"/>
+  
+  <rect x="22" y="24" width="3" height="15" rx="1.5" fill="#2E9EF7"/>
+  <text x="34" y="36" class="h" fill="#E6EDF3">LINGUAGENS</text>
+  <line x1="22" y1="52" x2="408" y2="52" stroke="#1A222C"/>
+  
+    <circle cx="27" cy="68" r="4.5" fill="#3572A5"/>
+    <text x="39" y="72" class="lbl" fill="#E6EDF3">Python</text>
+    <rect x="128" y="63" width="238" height="7" rx="3.5" fill="#1A222C"/>
+    <rect class="bar" x="128" y="63" width="238" height="7" rx="3.5"
+          fill="#3572A5" style="animation-delay:0.00s"/>
+    <text x="408" y="72" class="pct" fill="#7D8590">51%</text>
+    <circle cx="27" cy="91" r="4.5" fill="#e34c26"/>
+    <text x="39" y="95" class="lbl" fill="#E6EDF3">HTML</text>
+    <rect x="128" y="86" width="238" height="7" rx="3.5" fill="#1A222C"/>
+    <rect class="bar" x="128" y="86" width="64" height="7" rx="3.5"
+          fill="#e34c26" style="animation-delay:0.07s"/>
+    <text x="408" y="95" class="pct" fill="#7D8590">14%</text>
+    <circle cx="27" cy="114" r="4.5" fill="#f1e05a"/>
+    <text x="39" y="118" class="lbl" fill="#E6EDF3">JavaScript</text>
+    <rect x="128" y="109" width="238" height="7" rx="3.5" fill="#1A222C"/>
+    <rect class="bar" x="128" y="109" width="55" height="7" rx="3.5"
+          fill="#f1e05a" style="animation-delay:0.14s"/>
+    <text x="408" y="118" class="pct" fill="#7D8590">12%</text>
+    <circle cx="27" cy="137" r="4.5" fill="#3178c6"/>
+    <text x="39" y="141" class="lbl" fill="#E6EDF3">TypeScript</text>
+    <rect x="128" y="132" width="238" height="7" rx="3.5" fill="#1A222C"/>
+    <rect class="bar" x="128" y="132" width="55" height="7" rx="3.5"
+          fill="#3178c6" style="animation-delay:0.21s"/>
+    <text x="408" y="141" class="pct" fill="#7D8590">12%</text>
+    <circle cx="27" cy="160" r="4.5" fill="#00B4AB"/>
+    <text x="39" y="164" class="lbl" fill="#E6EDF3">Dart</text>
+    <rect x="128" y="155" width="238" height="7" rx="3.5" fill="#1A222C"/>
+    <rect class="bar" x="128" y="155" width="27" height="7" rx="3.5"
+          fill="#00B4AB" style="animation-delay:0.28s"/>
+    <text x="408" y="164" class="pct" fill="#7D8590">6%</text>
+    <circle cx="27" cy="183" r="4.5" fill="#f34b7d"/>
+    <text x="39" y="187" class="lbl" fill="#E6EDF3">C++</text>
+    <rect x="128" y="178" width="238" height="7" rx="3.5" fill="#1A222C"/>
+    <rect class="bar" x="128" y="178" width="9" height="7" rx="3.5"
+          fill="#f34b7d" style="animation-delay:0.35s"/>
+    <text x="408" y="187" class="pct" fill="#7D8590">2%</text>
+  <text x="215" y="218" class="note" fill="#7D8590">por número de repositórios, não por bytes</text>
+</svg>

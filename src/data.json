@@ -1,0 +1,726 @@
+{
+  "generatedAt": "2026-09-10T02:44:48.162Z",
+  "login": "IgorMacedo4",
+  "name": "Igor Macedo",
+  "followers": 2,
+  "commits": 655,
+  "prs": 0,
+  "prsMerged": 1,
+  "issues": 0,
+  "contributionsYear": 660,
+  "streak": 2,
+  "repoCount": 59,
+  "publicRepoCount": 28,
+  "stars": 1,
+  "languages": [
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "count": 26,
+      "pct": 50.98039215686274
+    },
+    {
+      "name": "HTML",
+      "color": "#e34c26",
+      "count": 7,
+      "pct": 13.725490196078432
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "count": 6,
+      "pct": 11.76470588235294
+    },
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "count": 6,
+      "pct": 11.76470588235294
+    },
+    {
+      "name": "Dart",
+      "color": "#00B4AB",
+      "count": 3,
+      "pct": 5.88235294117647
+    },
+    {
+      "name": "C++",
+      "color": "#f34b7d",
+      "count": 1,
+      "pct": 1.9607843137254901
+    }
+  ],
+  "activity": [
+    {
+      "year": "2022",
+      "count": 8
+    },
+    {
+      "year": "2023",
+      "count": 9
+    },
+    {
+      "year": "2024",
+      "count": 6
+    },
+    {
+      "year": "2025",
+      "count": 16
+    },
+    {
+      "year": "2026",
+      "count": 20
+    }
+  ],
+  "repos": [
+    {
+      "name": "IgorMacedo4",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/IgorMacedo4",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-09-10T02:32:52Z",
+      "language": null,
+      "languageColor": null
+    },
+    {
+      "name": "itech_eletronicos_front",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/itech_eletronicos_front",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-09-08T17:10:36Z",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a"
+    },
+    {
+      "name": "itech_eletronicos_backend",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/itech_eletronicos_backend",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-09-08T17:10:34Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "netilion-dashboard-frontend",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/netilion-dashboard-frontend",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-08-15T19:20:36Z",
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    },
+    {
+      "name": "netilion-dashboard-backend",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/netilion-dashboard-backend",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-08-15T19:07:44Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "treino_gabriela",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/treino_gabriela",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-08-10T17:53:40Z",
+      "language": "HTML",
+      "languageColor": "#e34c26"
+    },
+    {
+      "name": "transcreve_audio",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/transcreve_audio",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-07-31T14:51:10Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "funktrend-analytics",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/funktrend-analytics",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-05-28T22:41:03Z",
+      "language": "HTML",
+      "languageColor": "#e34c26"
+    },
+    {
+      "name": "frondend-mapa-brades",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/frondend-mapa-brades",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-04-27T01:44:48Z",
+      "language": "HTML",
+      "languageColor": "#e34c26"
+    },
+    {
+      "name": "backend-mapa-brade",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/backend-mapa-brade",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-04-27T01:38:55Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "tavares-advocacia-frontend",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/tavares-advocacia-frontend",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-04-15T23:52:36Z",
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    },
+    {
+      "name": "athos-data-site-oficial",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/athos-data-site-oficial",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-04-13T12:07:21Z",
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    },
+    {
+      "name": "leis_trabalhistas_compilado",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/leis_trabalhistas_compilado",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-02-13T20:33:37Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "interfaces-de-executaveis",
+      "description": "Repositório de interfaces executáveis (PyInstaller) de sistemas de automação RPA para escritórios jurídicos .",
+      "url": "https://github.com/IgorMacedo4/interfaces-de-executaveis",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 1,
+      "pushedAt": "2026-01-26T16:13:57Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "document-automation-llm-drive",
+      "description": "Automação de documentos jurídicos com IA: extração inteligente de dados via GPT-4 e preenchimento automatizado no Google Drive. Interface CustomTkinter + executável multiplataforma.",
+      "url": "https://github.com/IgorMacedo4/document-automation-llm-drive",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 1,
+      "pushedAt": "2026-01-26T16:12:36Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "cyber",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/cyber",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-01-22T20:50:14Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "chatbot-juridico-gerador-peticao",
+      "description": "Chatbot personalizado com RAG para escritórios de advocacia. Gera petições automaticamente.",
+      "url": "https://github.com/IgorMacedo4/chatbot-juridico-gerador-peticao",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 1,
+      "pushedAt": "2026-01-19T22:15:01Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "banco-imobiliario-3D-backend",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/banco-imobiliario-3D-backend",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-01-17T20:14:52Z",
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    },
+    {
+      "name": "banco-imobiliario-3D-frontend",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/banco-imobiliario-3D-frontend",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-01-17T20:10:24Z",
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    },
+    {
+      "name": "web-scraping-tribunais-aws",
+      "description": "Automação de consultas processuais em tribunais brasileiros com Python, AWS Lambda, web scraping e bypass de CAPTCHA",
+      "url": "https://github.com/IgorMacedo4/web-scraping-tribunais-aws",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-01-04T22:03:41Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "bling-dashboard-frontend",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/bling-dashboard-frontend",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-12-11T20:51:17Z",
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    },
+    {
+      "name": "bling-dashboard",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/bling-dashboard",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-12-11T20:40:10Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "natal_frontend",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/natal_frontend",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-12-01T03:36:38Z",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a"
+    },
+    {
+      "name": "natal_backend",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/natal_backend",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-12-01T03:13:11Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "concurso-ifsp",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/concurso-ifsp",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-10-28T22:38:59Z",
+      "language": "HTML",
+      "languageColor": "#e34c26"
+    },
+    {
+      "name": "api_ml_correios",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/api_ml_correios",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-08-31T23:24:07Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "abl_test_app_desktop",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/abl_test_app_desktop",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-08-29T17:50:17Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "portifolio-beckend",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/portifolio-beckend",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-07-26T14:28:06Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "escritorio_advocacia",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/escritorio_advocacia",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-03-12T16:52:48Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "Front-Vaga-Programador-Python-",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/Front-Vaga-Programador-Python-",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-02-14T21:11:50Z",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a"
+    },
+    {
+      "name": "Server-Vaga-Programador-Python",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/Server-Vaga-Programador-Python",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-02-14T21:10:01Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "render-test-01",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/render-test-01",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-02-12T19:31:48Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "vercel-front-teste01",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/vercel-front-teste01",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-02-01T22:50:05Z",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a"
+    },
+    {
+      "name": "server-api-ml-sheets",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/server-api-ml-sheets",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-01-31T18:44:32Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "front-api-ml-sheets",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/front-api-ml-sheets",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-01-31T03:17:56Z",
+      "language": "HTML",
+      "languageColor": "#e34c26"
+    },
+    {
+      "name": "teste-git-ubuntu",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/teste-git-ubuntu",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-01-31T01:07:44Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "python_teste",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/python_teste",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2024-10-06T23:45:53Z",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a"
+    },
+    {
+      "name": "facial_controll_arrows",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/facial_controll_arrows",
+      "isPrivate": false,
+      "stars": 1,
+      "forks": 0,
+      "pushedAt": "2024-06-03T19:36:28Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "tg_despejo_ilegal",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/tg_despejo_ilegal",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2024-04-03T20:40:11Z",
+      "language": "Dart",
+      "languageColor": "#00B4AB"
+    },
+    {
+      "name": "detecta_lixo_do_carro_rua",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/detecta_lixo_do_carro_rua",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2024-02-23T21:39:23Z",
+      "language": null,
+      "languageColor": null
+    },
+    {
+      "name": "send_email_auto",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/send_email_auto",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2024-02-20T22:38:41Z",
+      "language": "HTML",
+      "languageColor": "#e34c26"
+    },
+    {
+      "name": "hand_tracking_control",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/hand_tracking_control",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2024-01-25T04:46:31Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "controle-voz-slide",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/controle-voz-slide",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 1,
+      "pushedAt": "2023-12-23T19:40:57Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "downloader-mp4-e-mp3-youtube-python",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/downloader-mp4-e-mp3-youtube-python",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2023-12-22T22:06:03Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "hello-django",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/hello-django",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2023-11-01T17:13:23Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "API-IBGE-python",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/API-IBGE-python",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2023-10-26T23:11:41Z",
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "name": "API-previsao-tempo-JS",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/API-previsao-tempo-JS",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2023-10-18T01:42:31Z",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a"
+    },
+    {
+      "name": "desenv-mobile-desafio-dos-dados",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/desenv-mobile-desafio-dos-dados",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2023-09-29T17:09:58Z",
+      "language": "Dart",
+      "languageColor": "#00B4AB"
+    },
+    {
+      "name": "Gerenciador-de-Contatos-em-Dart",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/Gerenciador-de-Contatos-em-Dart",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 1,
+      "pushedAt": "2023-09-05T19:28:01Z",
+      "language": "Dart",
+      "languageColor": "#00B4AB"
+    },
+    {
+      "name": "meuappflutter",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/meuappflutter",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2023-08-30T15:23:00Z",
+      "language": "C++",
+      "languageColor": "#f34b7d"
+    },
+    {
+      "name": "Python-Scripts",
+      "description": "Pasta na qual estão os arquivos en Python",
+      "url": "https://github.com/IgorMacedo4/Python-Scripts",
+      "isPrivate": true,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2023-03-06T03:57:28Z",
+      "language": null,
+      "languageColor": null
+    },
+    {
+      "name": "Snake-Game",
+      "description": "Recriando o classico jogo da cobrinha.",
+      "url": "https://github.com/IgorMacedo4/Snake-Game",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2022-10-22T21:17:01Z",
+      "language": null,
+      "languageColor": null
+    },
+    {
+      "name": "Cadastro-Alunos",
+      "description": "Conectando PHP com o banco de dados.",
+      "url": "https://github.com/IgorMacedo4/Cadastro-Alunos",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2022-10-20T20:11:37Z",
+      "language": null,
+      "languageColor": null
+    },
+    {
+      "name": "Clone-netflix",
+      "description": "O clássico clone, nesse projeto foquei  principalmente em  testar o \"jquery\" e  em aprender mais sobre expansividade e adaptabilidade as diversas resoluções de telas.",
+      "url": "https://github.com/IgorMacedo4/Clone-netflix",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2022-10-14T18:48:09Z",
+      "language": "HTML",
+      "languageColor": "#e34c26"
+    },
+    {
+      "name": "recriando_instagram",
+      "description": "Nesse projeto com o auxiliio da video aula da plataforma DIO , refaço a pagina inicial do instagram.  ",
+      "url": "https://github.com/IgorMacedo4/recriando_instagram",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2022-10-11T20:31:09Z",
+      "language": "CSS",
+      "languageColor": "#663399"
+    },
+    {
+      "name": "IMvErickz",
+      "description": null,
+      "url": "https://github.com/IgorMacedo4/IMvErickz",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2022-09-26T21:22:10Z",
+      "language": null,
+      "languageColor": null
+    },
+    {
+      "name": "HTML-CSS-JS-Modelo-site-APPLE",
+      "description": "Recriando site da \"apple\".",
+      "url": "https://github.com/IgorMacedo4/HTML-CSS-JS-Modelo-site-APPLE",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2022-09-18T01:55:49Z",
+      "language": null,
+      "languageColor": null
+    },
+    {
+      "name": "Java-ForEache",
+      "description": "Aqui vai a resolução das seguintes questões: ",
+      "url": "https://github.com/IgorMacedo4/Java-ForEache",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2022-09-18T01:41:03Z",
+      "language": "Java",
+      "languageColor": "#b07219"
+    },
+    {
+      "name": "projeto1",
+      "description": "Usando git pela primeira vez",
+      "url": "https://github.com/IgorMacedo4/projeto1",
+      "isPrivate": false,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2022-09-18T01:01:34Z",
+      "language": null,
+      "languageColor": null
+    }
+  ]
+}
