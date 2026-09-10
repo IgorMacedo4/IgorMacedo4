@@ -32,10 +32,15 @@ const baseCss = (t) => `
 `
 
 export function activityCard(t, data) {
+  // O terceiro numero se adapta ao token: com um PAT o total inclui os repos
+  // privados e "publicos" diz algo; com o GITHUB_TOKEN os dois sao iguais e
+  // repetir o mesmo numero nao informa nada.
   const stats = [
     { n: data.commits, cap: 'commits no ano' },
     { n: data.repoCount, cap: 'repositórios' },
-    { n: data.publicRepoCount, cap: 'públicos' },
+    data.repoCount > data.publicRepoCount
+      ? { n: data.publicRepoCount, cap: 'públicos' }
+      : { n: data.languages.length, cap: 'linguagens' },
   ]
   const colW = (W - PAD * 2) / 3
   const numbers = stats.map((s, i) => {
