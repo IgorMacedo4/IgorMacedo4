@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-10T03:16:36.067Z",
+  "generatedAt": "2026-09-10T03:17:25.792Z",
   "login": "IgorMacedo4",
   "name": "Igor Macedo",
   "followers": 2,
-  "commits": 658,
+  "commits": 659,
   "prs": 0,
   "prsMerged": 1,
   "issues": 0,
-  "contributionsYear": 663,
+  "contributionsYear": 664,
   "streak": 3,
   "recent": [
     0,
@@ -55,47 +55,47 @@
     0,
     6,
     6,
-    1
+    2
   ],
-  "repoCount": 59,
+  "repoCount": 28,
   "publicRepoCount": 28,
   "stars": 1,
   "languages": [
     {
       "name": "Python",
       "color": "#3572A5",
-      "count": 26,
-      "pct": 50
+      "count": 13,
+      "pct": 56.52173913043478
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "count": 7,
-      "pct": 13.461538461538462
-    },
-    {
-      "name": "HTML",
-      "color": "#e34c26",
-      "count": 7,
-      "pct": 13.461538461538462
-    },
-    {
-      "name": "TypeScript",
-      "color": "#3178c6",
-      "count": 6,
-      "pct": 11.538461538461538
+      "count": 3,
+      "pct": 13.043478260869565
     },
     {
       "name": "Dart",
       "color": "#00B4AB",
       "count": 3,
-      "pct": 5.769230769230769
+      "pct": 13.043478260869565
     },
     {
       "name": "C++",
       "color": "#f34b7d",
       "count": 1,
-      "pct": 1.9230769230769231
+      "pct": 4.3478260869565215
+    },
+    {
+      "name": "HTML",
+      "color": "#e34c26",
+      "count": 1,
+      "pct": 4.3478260869565215
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "count": 1,
+      "pct": 4.3478260869565215
     }
   ],
   "activity": [
@@ -105,19 +105,19 @@
     },
     {
       "year": "2023",
-      "count": 9
+      "count": 8
     },
     {
       "year": "2024",
-      "count": 6
+      "count": 3
     },
     {
       "year": "2025",
-      "count": 16
+      "count": 3
     },
     {
       "year": "2026",
-      "count": 20
+      "count": 6
     }
   ]
 }

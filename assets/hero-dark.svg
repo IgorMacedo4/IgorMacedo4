@@ -74,11 +74,11 @@
     <text x="434" y="164" class="k">LOCATION</text>
     <text x="542" y="164" class="v">Brazil</text>
     <text x="434" y="194" class="k">LANGUAGES</text>
-    <text x="542" y="194" class="v">Python · JavaScript · HTML · TypeScript</text>
+    <text x="542" y="194" class="v">Python · JavaScript · Dart · C++</text>
     <text x="434" y="224" class="k">COMMITS</text>
-    <text x="542" y="224" class="v">658</text>
+    <text x="542" y="224" class="v">659</text>
     <text x="434" y="254" class="k">REPOS</text>
-    <text x="542" y="254" class="v">59</text>
+    <text x="542" y="254" class="v">28</text>
     <text x="434" y="284" class="k">STREAK</text>
     <text x="542" y="284" class="v">3 dias</text>
   <line x1="434" y1="304" x2="860" y2="304" stroke="#12333A"/>
