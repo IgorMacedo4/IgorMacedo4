@@ -31,30 +31,30 @@
   <text x="34" y="36" class="h" fill="#E6EDF3">ATIVIDADE</text>
   <line x1="22" y1="52" x2="408" y2="52" stroke="#1A222C"/>
   
-    <text x="86.33333333333333" y="88" class="big" fill="#E6EDF3" text-anchor="middle">655</text>
+    <text x="86.33333333333333" y="88" class="big" fill="#E6EDF3" text-anchor="middle">656</text>
     <text x="86.33333333333333" y="105" class="cap" fill="#7D8590" text-anchor="middle">commits no ano</text>
-    <text x="215" y="88" class="big" fill="#E6EDF3" text-anchor="middle">59</text>
+    <text x="215" y="88" class="big" fill="#E6EDF3" text-anchor="middle">28</text>
     <text x="215" y="105" class="cap" fill="#7D8590" text-anchor="middle">repositórios</text>
     <text x="343.66666666666663" y="88" class="big" fill="#E6EDF3" text-anchor="middle">28</text>
     <text x="343.66666666666663" y="105" class="cap" fill="#7D8590" text-anchor="middle">públicos</text>
   
-    <rect class="col" x="43.6" y="156" width="34" height="18" rx="3"
+    <rect class="col" x="43.6" y="128" width="34" height="46" rx="3"
           fill="#2E9EF7" fill-opacity="0.32"
           style="animation-delay:0.00s"/>
     <text x="60.6" y="189" class="yr" fill="#7D8590">2022</text>
-    <rect class="col" x="120.80000000000001" y="153" width="34" height="21" rx="3"
+    <rect class="col" x="120.80000000000001" y="128" width="34" height="46" rx="3"
           fill="#2E9EF7" fill-opacity="0.32"
           style="animation-delay:0.07s"/>
     <text x="137.8" y="189" class="yr" fill="#7D8590">2023</text>
-    <rect class="col" x="198" y="160" width="34" height="14" rx="3"
+    <rect class="col" x="198" y="157" width="34" height="17" rx="3"
           fill="#2E9EF7" fill-opacity="0.32"
           style="animation-delay:0.14s"/>
     <text x="215" y="189" class="yr" fill="#7D8590">2024</text>
-    <rect class="col" x="275.20000000000005" y="137" width="34" height="37" rx="3"
+    <rect class="col" x="275.20000000000005" y="157" width="34" height="17" rx="3"
           fill="#2E9EF7" fill-opacity="0.32"
           style="animation-delay:0.21s"/>
     <text x="292.20000000000005" y="189" class="yr" fill="#7D8590">2025</text>
-    <rect class="col" x="352.40000000000003" y="128" width="34" height="46" rx="3"
+    <rect class="col" x="352.40000000000003" y="139" width="34" height="35" rx="3"
           fill="#2E9EF7" fill-opacity="1"
           style="animation-delay:0.28s"/>
     <text x="369.40000000000003" y="189" class="yr" fill="#7D8590">2026</text>
