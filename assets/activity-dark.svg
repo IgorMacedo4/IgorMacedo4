@@ -31,7 +31,7 @@
   <text x="34" y="36" class="h" fill="#E6EDF3">ATIVIDADE</text>
   <line x1="22" y1="52" x2="408" y2="52" stroke="#1A222C"/>
   
-    <text x="86.33333333333333" y="88" class="big" fill="#E6EDF3" text-anchor="middle">682</text>
+    <text x="86.33333333333333" y="88" class="big" fill="#E6EDF3" text-anchor="middle">588</text>
     <text x="86.33333333333333" y="105" class="cap" fill="#7D8590" text-anchor="middle">commits no ano</text>
     <text x="215" y="88" class="big" fill="#E6EDF3" text-anchor="middle">28</text>
     <text x="215" y="105" class="cap" fill="#7D8590" text-anchor="middle">repositórios</text>
