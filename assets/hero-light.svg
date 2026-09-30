@@ -80,7 +80,7 @@
     <text x="434" y="254" class="k">REPOS</text>
     <text x="542" y="254" class="v">28</text>
     <text x="434" y="284" class="k">STREAK</text>
-    <text x="542" y="284" class="v">3 dias</text>
+    <text x="542" y="284" class="v">0 dias</text>
   <line x1="434" y1="304" x2="860" y2="304" stroke="#C2DEDA"/>
   <circle class="led" cx="438" cy="324" r="4" fill="#05A28F"/>
   <text x="450" y="328" class="st">scan complete · disponível para conversar</text>
